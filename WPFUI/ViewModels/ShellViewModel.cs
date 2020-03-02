@@ -22,6 +22,7 @@ namespace WPFUI.ViewModels
 			People.Add(new PersonModel { FirstName = "Sue", LastName = "Storm" });
 		}
 
+		// This is a change
 		public string FirstName
 		{
 			get 
